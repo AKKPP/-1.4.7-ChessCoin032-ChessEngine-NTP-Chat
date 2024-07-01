@@ -1,8 +1,5 @@
 
 
-
-
-
 ChessCoin 0.32% development tree
 
 ChessCoin 0.32% is a PoS-based cryptocurrency.
@@ -48,5 +45,10 @@ How to build ChessCoin GUI application on Mac
 
 See : `doc/build-mac.txt`.
 
+
+How to build ChessCoin GUI application on Ubuntu
+======================================================
+
+See : `doc/build-ubuntu.txt`.
 
 # -1.4.7-ChessCoin032-ChessEngine-NTP-Chat
