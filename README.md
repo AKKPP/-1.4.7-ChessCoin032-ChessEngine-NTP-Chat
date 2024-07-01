@@ -53,3 +53,5 @@ How to build ChessCoin GUI application on Ubuntu
 See : `doc/build-ubuntu.txt`.
 
 # -1.4.7-ChessCoin032-ChessEngine-NTP-Chat
+
+[![NTP](https://i.ibb.co/PrNcb3Z/Chat-Page-NTP-Time.png)]
