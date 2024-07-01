@@ -1,3 +1,4 @@
+[![ChessCoin](https://i.ibb.co/P4V5MWG/256x256.png)](https://bitcointalk.org/index.php?topic=5275402.0)
 
 
 ChessCoin 0.32% development tree
