@@ -55,3 +55,6 @@ See : `doc/build-ubuntu.txt`.
 # -1.4.7-ChessCoin032-ChessEngine-NTP-Chat
 
 [![NTP](https://i.ibb.co/PrNcb3Z/Chat-Page-NTP-Time.png)]
+
+
+[![PlayChess](https://i.ibb.co/G7b1Wjf/Play-Chess.png)]
